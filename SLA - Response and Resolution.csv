@@ -1,0 +1,39 @@
+Number,Assignment Group,Assigned to,Created,Created by,SLA,Has breached,Breached Assigned To,Breached Assignment Group,Company,Stage
+INC1227209,Telecom Operations - Provisioning,Kiran Maddula,2025-03-31 03:30:31 PM,lulopez,Priority 4 Resolution (3 BD 9 - 5 EST),TRUE,Kiran Maddula,Telecom Operations - Provisioning,R3 TECHNOLOGY INC,Completed
+INC1232249,Business Intelligence,Poongundran Kaliaperumal,2025-04-11 07:42:04 AM,draj,Priority 3 Response (4 hours),TRUE,,Business Intelligence,,Completed
+INC1232249,Business Intelligence,Poongundran Kaliaperumal,2025-04-11 07:42:04 AM,draj,Priority 3 Resolution (2 BD 9 - 5 EST),TRUE,,Business Intelligence,,Completed
+INC1239848,Application Development,Vignesh Selvam,2025-04-29 04:22:50 PM,sthodupunoori,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Vignesh Selvam,Application Development,R3 TECHNOLOGY INC,Completed
+INC1229294,Business Intelligence,Poongundran Kaliaperumal,2025-04-04 12:02:46 PM,jramasamy,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1241372,Business Intelligence,Poongundran Kaliaperumal,2025-05-04 10:19:31 PM,dgummadi,Priority 4 Resolution (3 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1241372,Business Intelligence,Poongundran Kaliaperumal,2025-05-04 10:19:31 PM,dgummadi,Priority 4 Response (2 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1239113,Business Intelligence,Sandeep Kumar Singh,2025-04-28 05:18:51 PM,jramasamy,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Sandeep Kumar Singh,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1235498,EIS – Managed Services  ,Ramesh Marthala,2025-04-21 12:00:06 PM,rmarthala,Priority 4 Response (2 hours),TRUE,,Financial Systems,,Completed
+INC1237504,GCP IT Operation ,Sudarshan C,2025-04-24 11:47:36 AM,marfernandez,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Sudarshan C,GCP IT Operation ,R3 TECHNOLOGY INC,Completed
+INC1229719,Business Intelligence,Poongundran Kaliaperumal,2025-04-06 12:19:09 PM,draj,Priority 3 Resolution (2 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1229719,Business Intelligence,Poongundran Kaliaperumal,2025-04-06 12:19:09 PM,draj,Priority 3 Response (4 hours),TRUE,,Business Intelligence,,Completed
+INC1248053,Azure Architecture,Vishnu Vardhan Reddy Yelimela,2025-05-23 12:29:07 PM,suc,Priority 5 Response (2 BD 9 - 5 EST),TRUE,,Azure Architecture,,Completed
+INC1236338,Business Intelligence,Barathan R,2025-04-22 12:11:11 PM,br,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Barathan R,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1168823,Telecom Operations - Provisioning,Kiran Maddula,2024-09-24 09:45:08 AM,aaguirre,Priority 3 Resolution (2 BD 9 - 5 EST),TRUE,Kiran Maddula,Telecom Operations - Provisioning,R3 TECHNOLOGY INC,Completed
+INC1244521,Azure Architecture,Vishnu Vardhan Reddy Yelimela,2025-05-13 02:12:17 PM,erreategui,Priority 5 Response (2 BD 9 - 5 EST),TRUE,,Azure Architecture,,Completed
+INC1244521,Azure Architecture,Vishnu Vardhan Reddy Yelimela,2025-05-13 02:12:17 PM,erreategui,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Vishnu Vardhan Reddy Yelimela,Azure Architecture,R3 TECHNOLOGY INC,Completed
+INC1206330,Business Intelligence,Barathan R,2025-01-24 09:18:37 AM,pkaliaperumal,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1206330,Business Intelligence,Barathan R,2025-01-24 09:18:37 AM,pkaliaperumal,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1130833,Business Intelligence,Barathan R,2024-05-15 08:40:37 AM,pkaliaperumal,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1130833,Business Intelligence,Barathan R,2024-05-15 08:40:37 AM,pkaliaperumal,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1220763,Business Intelligence,Barathan R,2025-03-11 05:29:42 PM,jcelisrojas,Inc Resp P4 Onsite 11:00PM-5:00PM (M-F),TRUE,,,,Completed
+INC1220763,Business Intelligence,Barathan R,2025-03-11 05:29:42 PM,jcelisrojas,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1212095,Business Intelligence,Barathan R,2025-02-12 11:52:14 AM,pkaliaperumal,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1212095,Business Intelligence,Barathan R,2025-02-12 11:52:14 AM,pkaliaperumal,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1123326,Business Intelligence,Barathan R,2024-04-10 10:34:58 AM,mbalamurugan,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Muhilank Balamurugan,Business Intelligence,,Completed
+INC1123326,Business Intelligence,Barathan R,2024-04-10 10:34:58 AM,mbalamurugan,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Muhilank Balamurugan,Business Intelligence,,Completed
+INC1123333,Business Intelligence,Barathan R,2024-04-10 10:59:34 AM,mbalamurugan,Priority 4 Response (2 BD 9 - 5 EST),TRUE,Muhilank Balamurugan,Business Intelligence,,Completed
+INC1123333,Business Intelligence,Barathan R,2024-04-10 10:59:34 AM,mbalamurugan,Priority 4 Resolution (3 BD 9 - 5 EST),TRUE,Muhilank Balamurugan,Business Intelligence,,Completed
+INC1171520,Business Intelligence,Barathan R,2024-10-01 12:55:22 PM,jramasamy,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1229280,Business Intelligence,Jayapradha Ramasamy,2025-04-04 11:46:00 AM,jramasamy,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1229280,Business Intelligence,Jayapradha Ramasamy,2025-04-04 11:46:00 AM,jramasamy,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Poongundran Kaliaperumal,Business Intelligence,R3 TECHNOLOGY INC,Completed
+INC1245629,ETOC - ITSM,Rakesh Warrier,2025-05-15 07:19:29 PM,rwarrier,Major Inc Response (15min - 24x7),TRUE,,,,Completed
+INC1248354,Database Management Services,Vijaylakshmi Bandhalakunta,2025-05-25 07:34:47 AM,aannavarapu,Priority 2 Response (2 hours),TRUE,,Database Management Services,,Completed
+INC1246857,Azure Architecture,Vishnu Vardhan Reddy Yelimela,2025-05-20 01:15:16 PM,drai,Priority 5 Response (2 BD 9 - 5 EST),TRUE,Vishnu Vardhan Reddy Yelimela,Azure Architecture,R3 TECHNOLOGY INC,Completed
+INC1243451,Azure Architecture,Vishnu Vardhan Reddy Yelimela,2025-05-09 09:56:06 AM,jzamora,Priority 3 Resolution (2 BD 9 - 5 EST),TRUE,Sriram Siripalli,Directory Operations,Capgemini,Completed
+INC1248382,ETOC - ITSM,Deepthi Rambhatla,2025-05-26 03:31:49 AM,drambhatla,Major Inc Response (15min - 24x7),TRUE,,,,Completed
+INC1245317,Application Development,Stalin Raja,2025-05-15 10:48:51 AM,sthodupunoori,Priority 5 Resolution (5 BD 9 - 5 EST),TRUE,Stalin Raja,Application Development,R3 TECHNOLOGY INC,Completed
